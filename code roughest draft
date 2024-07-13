@@ -1,5 +1,7 @@
 // user inputs consonants (C)
+input(consonants)
 // user inputs vowels (V)
+input(vowels)
 // generate all combinations of (CV, VC, CVC) as a table
 // return table with each box having a number between 1 and 5, automatically set to 3
 // user manually sets numbers on table values, these become the number of times the corresponding value appears in the table
